@@ -22,3 +22,5 @@ Limitations:
 -This program may not be able to execute every bash command, as it uses execvp(), which may
 limit certain commands from being used. However, the program does work with all of the standard
 bash commands. 
+-Files not included for `#include` statements, user must download to a machine with these libraries
+as this was originally programmed for use on the Oregon State University engineering servers
