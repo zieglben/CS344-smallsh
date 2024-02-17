@@ -1,5 +1,6 @@
 # CS344-smallsh
 Author: Ben Ziegler
+
 Email: benziegler12@gmail.com
 
 **Program was originally developed for CS44 at Oregon State University and deigned to run
