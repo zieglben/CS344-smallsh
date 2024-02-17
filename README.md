@@ -7,11 +7,13 @@ Email: benziegler12@gmail.com
 on their engineering servers, so users must install the required libraries to run the program.**
 
 Description: 
+
 This program creates a shell to access the operating system on the device. By manipulating
 parent and child processes, this program can execute most commands allowed in the bash shell,
 as well as shell scripts. 
 
 Instructions:
+
 To compile the program, type into the terminal:
 
 "gcc --std=c99 -g smallsh.c smallsh.h driver.c -o smallsh"
